@@ -34,7 +34,7 @@
                 "food": [
                     "Plants"
                 ],
-                "image": "../img/freshwater/guppy.jpg",
+                "image": "./img/freshwater/guppy.jpg",
                 "description": "The Guppy is a popular breed among new aquarium enthusiasts, because it doesn’t need too much special knowledge, to care for it. All you need for it, is a simple freshwater tank, with multiple plants and substrate."
             },
             "enemies": [
